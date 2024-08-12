@@ -1,5 +1,11 @@
 # 이 프로그램은 밴드에 새로운 글이 올라오면 자동으로 댓글을 다는 프로그램입니다.
 
+
+<프로그램 다운로드 방법>
+그림처럼 CODE 클릭수 DOWNLOAT ZIP 클릭 
+아무 폴더에 압축해제
+![캡처8](https://github.com/user-attachments/assets/f7f1f955-5eaf-4dcd-b676-f8a343fccbd2)
+
 # 사용법
 우선 Access Token 을 발급 받아주세요
 방법은 https://github.com/voyageth/bandopenapi/blob/main/python/..%2Fperl%2FREADME.md 링크를 보시고 따라해 주세요
